@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price,cost_price,return_rate
+PROD0001,Accusantium Electronics 1,Electronics,52957.01,3838.08,0.12
+PROD0002,Sapiente Electronics 2,Electronics,25627.2,14441.77,0.12
+PROD0003,Velit Electronics 3,Electronics,60235.34,38703.42,0.12
+PROD0004,Ex Electronics 4,Electronics,71913.47,7151.23,0.12
+PROD0005,Ipsam Electronics 5,Electronics,36644.14,4094.15,0.12
+PROD0006,Error Electronics 6,Electronics,21397.85,29536.51,0.12
+PROD0007,Blanditiis Electronics 7,Electronics,6990.2,13137.81,0.12
+PROD0008,Vero Electronics 8,Electronics,53741.33,31654.37,0.12
+PROD0009,Aliquid Electronics 9,Electronics,21533.05,34025.71,0.12
+PROD0010,Optio Electronics 10,Electronics,65707.28,2847.68,0.12
+PROD0011,Id Clothing 11,Clothing,6543.64,3985.05,0.08
+PROD0012,Consequatur Clothing 12,Clothing,3051.88,1081.82,0.08
+PROD0013,Quis Clothing 13,Clothing,7679.1,2050.78,0.08
+PROD0014,Nisi Clothing 14,Clothing,1195.59,767.43,0.08
+PROD0015,Qui Clothing 15,Clothing,6856.21,3479.93,0.08
+PROD0016,Doloremque Clothing 16,Clothing,6553.46,4154.07,0.08
+PROD0017,Error Clothing 17,Clothing,4521.71,5456.17,0.08
+PROD0018,Atque Clothing 18,Clothing,3339.01,3203.42,0.08
+PROD0019,Exercitationem Clothing 19,Clothing,6720.53,3559.08,0.08
+PROD0020,Quaerat Clothing 20,Clothing,6962.8,3338.83,0.08
+PROD0021,Deleniti Home Appliance 21,Home Appliance,43160.59,3355.89,0.1
+PROD0022,Ipsam Home Appliance 22,Home Appliance,15990.2,13220.21,0.1
+PROD0023,Deleniti Home Appliance 23,Home Appliance,7548.14,10928.03,0.1
+PROD0024,Voluptatibus Home Appliance 24,Home Appliance,8757.08,12757.93,0.1
+PROD0025,Laudantium Home Appliance 25,Home Appliance,39234.01,16275.7,0.1
+PROD0026,Consectetur Home Appliance 26,Home Appliance,24100.32,9985.03,0.1
+PROD0027,Facilis Home Appliance 27,Home Appliance,18217.74,39434.51,0.1
+PROD0028,Quos Home Appliance 28,Home Appliance,39938.02,26169.81,0.1
+PROD0029,Molestias Home Appliance 29,Home Appliance,12754.9,31029.64,0.1
+PROD0030,Sequi Home Appliance 30,Home Appliance,12313.94,16867.95,0.1
+PROD0031,Ratione Financial Prod 31,Financial Prod,49486.64,22579.99,0.05
+PROD0032,Suscipit Financial Prod 32,Financial Prod,28290.54,24119.19,0.05
+PROD0033,Magni Financial Prod 33,Financial Prod,42299.74,27272.0,0.05
+PROD0034,Sunt Financial Prod 34,Financial Prod,12223.36,1607.46,0.05
+PROD0035,Quos Financial Prod 35,Financial Prod,16457.2,9737.06,0.05
+PROD0036,Blanditiis Financial Prod 36,Financial Prod,11338.16,33030.39,0.05
+PROD0037,Quaerat Financial Prod 37,Financial Prod,43942.01,11356.39,0.05
+PROD0038,Illo Financial Prod 38,Financial Prod,33116.49,14149.3,0.05
+PROD0039,Quibusdam Financial Prod 39,Financial Prod,45812.83,16330.39,0.05
+PROD0040,Omnis Financial Prod 40,Financial Prod,13979.13,9008.65,0.05
+PROD0041,Velit Accessories 41,Accessories,1771.83,625.48,0.15
+PROD0042,Odit Accessories 42,Accessories,1836.84,1895.65,0.15
+PROD0043,Ipsa Accessories 43,Accessories,1318.32,538.64,0.15
+PROD0044,Voluptas Accessories 44,Accessories,2993.11,1119.05,0.15
+PROD0045,Voluptatem Accessories 45,Accessories,454.55,194.23,0.15
+PROD0046,Quasi Accessories 46,Accessories,507.02,1354.89,0.15
+PROD0047,Exercitationem Accessories 47,Accessories,2417.82,944.32,0.15
+PROD0048,Unde Accessories 48,Accessories,377.88,863.24,0.15
+PROD0049,Voluptas Accessories 49,Accessories,2989.14,1158.23,0.15
+PROD0050,Sed Accessories 50,Accessories,2919.02,1821.56,0.15
+PROD0051,Asperiores Sports 51,Sports,1020.44,10201.82,0.09
+PROD0052,Architecto Sports 52,Sports,13888.84,7702.8,0.09
+PROD0053,Officia Sports 53,Sports,5923.04,9117.08,0.09
+PROD0054,Neque Sports 54,Sports,2941.8,6312.81,0.09
+PROD0055,Vero Sports 55,Sports,9511.5,13371.9,0.09
+PROD0056,Nesciunt Sports 56,Sports,17616.38,3982.09,0.09
+PROD0057,Odio Sports 57,Sports,10411.25,2829.67,0.09
+PROD0058,Ad Sports 58,Sports,18322.45,12239.05,0.09
+PROD0059,Voluptatum Sports 59,Sports,6530.14,9089.71,0.09
+PROD0060,Quis Sports 60,Sports,12492.23,2478.61,0.09
+PROD0061,Nemo Books 61,Books,1179.39,600.89,0.2
+PROD0062,Veniam Books 62,Books,1201.15,592.09,0.2
+PROD0063,At Books 63,Books,150.77,391.05,0.2
+PROD0064,Incidunt Books 64,Books,176.29,980.87,0.2
+PROD0065,Odit Books 65,Books,1336.27,885.87,0.2
+PROD0066,Magni Books 66,Books,565.14,131.48,0.2
+PROD0067,In Books 67,Books,1335.31,998.28,0.2
+PROD0068,Blanditiis Books 68,Books,265.63,548.84,0.2
+PROD0069,Natus Books 69,Books,243.44,816.59,0.2
+PROD0070,Perspiciatis Books 70,Books,1183.88,200.18,0.2
+PROD0071,Iure Food & Bev 71,Food & Bev,1003.04,792.23,0.25
+PROD0072,Rem Food & Bev 72,Food & Bev,603.61,1227.78,0.25
+PROD0073,Ratione Food & Bev 73,Food & Bev,903.96,335.93,0.25
+PROD0074,Voluptas Food & Bev 74,Food & Bev,1124.66,1035.41,0.25
+PROD0075,Eligendi Food & Bev 75,Food & Bev,482.19,470.82,0.25
+PROD0076,Odit Food & Bev 76,Food & Bev,1990.78,927.34,0.25
+PROD0077,Eveniet Food & Bev 77,Food & Bev,932.39,748.73,0.25
+PROD0078,Ducimus Food & Bev 78,Food & Bev,329.91,353.34,0.25
+PROD0079,Vel Food & Bev 79,Food & Bev,742.36,844.22,0.25
+PROD0080,Rem Food & Bev 80,Food & Bev,537.22,347.29,0.25

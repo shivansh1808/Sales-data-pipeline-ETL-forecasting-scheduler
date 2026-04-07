@@ -1,0 +1,35 @@
+2026-04-07 06:06:03,105  INFO  
+============================================================
+2026-04-07 06:06:03,106  INFO  ETL RUN STARTED  2026-04-07 06:06:03
+2026-04-07 06:06:03,106  INFO  ============================================================
+2026-04-07 06:06:03,106  INFO  === EXTRACT ===
+2026-04-07 06:06:03,254  INFO  Loaded 52,000 transactions | 3,000 customers | 80 products
+2026-04-07 06:06:03,254  INFO  === TRANSFORM ===
+2026-04-07 06:06:03,254  INFO  --- Validating transactions ---
+2026-04-07 06:06:03,267  WARNING    Nulls found:
+campaign    8450
+dtype: int64
+2026-04-07 06:06:03,327  INFO    0 rows removed in validation. 52,000 rows remain.
+2026-04-07 06:06:03,606  INFO    Enriched transactions: 52,000 rows, 30 columns
+2026-04-07 06:06:03,606  INFO  Building monthly summary...
+2026-04-07 06:06:03,654  INFO    Monthly summary: 36 rows
+2026-04-07 06:06:03,654  INFO  Building category summary...
+2026-04-07 06:06:03,704  INFO    Category summary: 288 rows
+2026-04-07 06:06:03,704  INFO  Building region summary...
+2026-04-07 06:06:03,748  INFO    Region summary: 720 rows
+2026-04-07 06:06:03,748  INFO  Building channel/campaign summary...
+2026-04-07 06:06:03,800  INFO    Channel/campaign summary: 720 rows
+2026-04-07 06:06:03,801  INFO  === LOAD ===
+2026-04-07 06:06:03,801  INFO  Connected to DB: /home/claude/sales-dashboard/sales_data.db
+2026-04-07 06:06:04,373  INFO    Loaded table 'transactions': 52,000 rows
+2026-04-07 06:06:04,416  INFO    Loaded table 'customers': 3,000 rows
+2026-04-07 06:06:04,430  INFO    Loaded table 'products': 80 rows
+2026-04-07 06:06:04,443  INFO    Loaded table 'monthly_summary': 36 rows
+2026-04-07 06:06:04,456  INFO    Loaded table 'category_summary': 288 rows
+2026-04-07 06:06:04,472  INFO    Loaded table 'region_summary': 720 rows
+2026-04-07 06:06:04,487  INFO    Loaded table 'channel_summary': 720 rows
+2026-04-07 06:06:05,171  INFO    Processed CSVs saved to data/processed/
+2026-04-07 06:06:05,171  INFO  
+ETL COMPLETE  2026-04-07 06:06:05
+2026-04-07 06:06:05,171  INFO  ============================================================
+
